@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: This is the page description. 
+description:  
 permalink: /about/
 background: '/assets/images/about-page.jpeg'
 ---
