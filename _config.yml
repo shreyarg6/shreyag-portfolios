@@ -1,11 +1,11 @@
-title: Joe's Blog
-email: joelolawanle@kinsta.com
+title: ShreyaG
+email: sguddeti@purdue.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the official blog of Joe. Here you can find all the latest news and updates.
+  Here you can find all of my works!
 baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: olawanle_joel
-github_username: olawanlejoel
+#twitter_username: olawanle_joel
+#github_username: olawanlejoel
 
 # Build settings
 # theme: minima
@@ -18,7 +18,7 @@ defaults:
       path: 'posts' # empty string means all files
     values:
       layout: 'post'
-      author: 'John Doe'
+      author: 'ShreyaG'
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
